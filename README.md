@@ -5,7 +5,7 @@ I'm a **Blockchain Developer** with a passion for cryptocurrency and blockchain 
 ## 🌟 About Me
 - 🌍 Based in Indonesia
 - 🎓 Graduated from SMA Negeri 3 Ponorogo, majoring in Science
-- 💼 Freelance experience with **ReactJS** and **Node.js** for over 2 years
+- 💼 Freelance experience with **ReactJS** and **Node.js** for over 4 years
 - 🚀 Currently working on projects involving **Interactive Blockchain Explorers** and cryptocurrency innovations.
 
 ## 🔧 Technologies & Tools
